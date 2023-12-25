@@ -1,5 +1,5 @@
 [![MasterHead](https://drive.google.com/file/d/1wI0XxiBFjEbkie-IUPXPp5RBbYwrRKg0/view?usp=sharing)](https://www.youtube.com/@programmingzoop3464)
-<h1 align="center">Hey, I'm Y B Arzoo</h1>
+<h1 align="center">Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Y B Arzoo</h1>
 <h3 align="center">Technical Writer | Novelist | Programmer | Front End Developer</h3>
 <img align="right" alt = "Atom" width = "400" src="https://media.giphy.com/media/yQltwC4N8nzOE1WdDW/giphy-downsized-large.gif">
 
