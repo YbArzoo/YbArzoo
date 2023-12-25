@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/3HiH2b1mdjeDBhMRCd/giphy-downsized-large.gif)](https://www.youtube.com/@programmingzoop3464)
+<!--[![MasterHead](https://media.giphy.com/media/3HiH2b1mdjeDBhMRCd/giphy-downsized-large.gif)](https://www.youtube.com/@programmingzoop3464)-->
 <h1 align="center">Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Y B Arzoo</h1>
 <h3 align="center">Technical Writer | Novelist | Programmer | Front End Developer</h3>
 <img align="right" alt = "Atom" width = "400" src="https://media.giphy.com/media/yQltwC4N8nzOE1WdDW/giphy-downsized-large.gif">
