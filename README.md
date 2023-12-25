@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I published my first ever Detective Novel titled "The Domicile of Mystery" back in 2021.**
 
-### Blogs posts
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How to make a Fibonacci series with a Function In Python](https://dev.to/ybarzoo/how-to-make-a-fibonacci-series-with-a-function-in-python-26e2)
 <!-- BLOG-POST-LIST:END -->
