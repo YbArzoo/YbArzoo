@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Fibonacci series with a Function In Python](https://dev.to/ybarzoo/how-to-make-a-fibonacci-series-with-a-function-in-python-26e2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
