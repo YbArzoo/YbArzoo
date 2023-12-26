@@ -19,6 +19,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [How to find the first even and odd occurring numbers from a list in Python?](https://dev.to/ybarzoo/how-to-find-the-first-even-and-odd-occurring-numbers-from-a-list-in-python-4han)
 - [How to make a Fibonacci series with a Function In Python](https://dev.to/ybarzoo/how-to-make-a-fibonacci-series-with-a-function-in-python-26e2)
 <!-- BLOG-POST-LIST:END -->
 
