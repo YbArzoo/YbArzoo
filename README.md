@@ -72,7 +72,9 @@ I am a Computer Science graduate passionate about building scalable digital solu
 
 ---
 
-### 📕 Latest Blog Posts
-- [Quantum Computing 101: Beginners to Intermediate - Part 1](https://dev.to/ybarzoo/quantum-computing-101-beginners-to-intermediate-part-1-3jb2)
-- [How to find the first even and odd occurring numbers from a list in Python?](https://dev.to/ybarzoo/how-to-find-the-first-even-and-odd-occurring-numbers-from-a-list-in-python-4han)
-- [How to make a Fibonacci series with a Function In Python](https://dev.to/ybarzoo/how-to-make-a-fibonacci-series-with-a-function-in-python-26e2)
+### ✍️ My Blog & Writing
+
+I regularly write technical articles about Python, Quantum Computing, and Software Engineering. You can read all of my latest posts directly on my profiles:
+
+- 🚀 **[Read my articles on Dev.to](https://dev.to/ybarzoo)**
+- 📖 **[Follow my writing on Medium](https://medium.com/@yb.arzoo)**
