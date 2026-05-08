@@ -56,10 +56,9 @@ I am a Computer Science graduate passionate about building scalable digital solu
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybarzoo&show_icons=true&theme=radical" alt="Y B Arzoo's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ybarzoo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</div>
+![Y B Arzoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ybarzoo&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ybarzoo&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ---
 
