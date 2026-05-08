@@ -1,45 +1,79 @@
-<!--[![MasterHead](https://media.giphy.com/media/3HiH2b1mdjeDBhMRCd/giphy-downsized-large.gif)](https://www.youtube.com/@programmingzoop3464)-->
 <h1 align="center">Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Y B Arzoo</h1>
-<h3 align="center">Technical Writer | Novelist | Programmer | Front End Developer</h3>
-<img align="right" alt = "Atom" width = "400" src="https://media.giphy.com/media/yQltwC4N8nzOE1WdDW/giphy-downsized-large.gif">
+<h3 align="center">Software Engineer | SaaS Architect | ML Researcher | Novelist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ybarzoo&label=Profile%20views&color=0e75b6&style=flat" alt="ybarzoo" /> </p>
+<img align="right" alt="Atom" width="350" src="https://media.giphy.com/media/yQltwC4N8nzOE1WdDW/giphy-downsized-large.gif">
 
-<p align="left"> <a href="https://twitter.com/arzooyb" target="blank"><img src="https://img.shields.io/twitter/follow/arzooyb?logo=twitter&style=for-the-badge" alt="arzooyb" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ybarzoo&label=Profile%20views&color=0e75b6&style=flat" alt="ybarzoo" /> 
+  <a href="https://twitter.com/arzooyb" target="blank"><img src="https://img.shields.io/twitter/follow/arzooyb?logo=twitter&style=flat" alt="arzooyb" /></a> 
+</p>
 
-- 🌱 I’m currently learning **Quantum Computing & App Development**
+---
 
-- 📝 I regularly write articles on [https://dev.to/ybarzoo](https://dev.to/ybarzoo)
+### 👨🏻‍💻 About Me
 
-- 💬 Ask me about **Python, Quantum Computing**
+I am a Computer Science graduate passionate about building scalable digital solutions and pushing the boundaries of AI. From engineering robust backend systems to researching quantum neural networks, I love solving complex problems.
 
-- 📫 How to reach me **yb.arzoo@gmail.com**
+- 🔭 I’m currently building **scalable SaaS architectures** and working as a Software Engineer.
+- 🌱 I’m actively researching **Hybrid Quantum-Classical Neural Networks** for Audio Deepfake Detection.
+- 💼 My tech focus spans across **Full-Stack Web Development (Laravel/React)** and **Machine Learning**.
+- 📝 I regularly write technical articles on [Dev.to](https://dev.to/ybarzoo).
+- 📫 How to reach me: **[yb.arzoo@gmail.com](mailto:yb.arzoo@gmail.com)**
+- ⚡ Fun fact: I published my first detective novel, *The Domicile of Mystery*, back in 2021!
 
-- ⚡ Fun fact **I published my first ever Detective Novel titled "The Domicile of Mystery" back in 2021.**
+---
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+### 🚀 Tech Stack & Tools
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+**Frontend & Mobile**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+**Backend, SaaS & Cloud**<br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+**Data Science, AI & Quantum**<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ybarzoo&show_icons=true&theme=radical" alt="Y B Arzoo's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ybarzoo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/yb-arzoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://yb-arzoo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://scholar.google.com/citations?user=PO8a7gMAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://dev.to/ybarzoo" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+<a href="https://twitter.com/arzooyb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+---
+
+### 📕 Latest Blog Posts
 - [Quantum Computing 101: Beginners to Intermediate - Part 1](https://dev.to/ybarzoo/quantum-computing-101-beginners-to-intermediate-part-1-3jb2)
 - [How to find the first even and odd occurring numbers from a list in Python?](https://dev.to/ybarzoo/how-to-find-the-first-even-and-odd-occurring-numbers-from-a-list-in-python-4han)
 - [How to make a Fibonacci series with a Function In Python](https://dev.to/ybarzoo/how-to-make-a-fibonacci-series-with-a-function-in-python-26e2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@ybarzoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ybarzoo" height="30" width="40" /></a>
-<a href="https://twitter.com/arzooyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arzooyb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yb-arzoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yb-arzoo" height="30" width="40" /></a>
-<a href="https://fb.com/yb.zoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yb.zoop" height="30" width="40" /></a>
-<a href="https://instagram.com/yb_zoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yb_zoop" height="30" width="40" /></a>
-<a href="https://medium.com/@yb.arzoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yb.arzoo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programming zoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming zoop" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ybarzoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ybarzoo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybarzoo&show_icons=true&locale=en&layout=compact" alt="ybarzoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybarzoo&show_icons=true&locale=en" alt="ybarzoo" /></p>
-
